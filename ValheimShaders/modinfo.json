@@ -1,0 +1,12 @@
+{
+    "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+    "type": "Code",
+    "modid": "valheimshaders",
+    "name": "ValheimShaders",
+    "description": "Valheim-inspired colour grading, atmospheric fog, and lighting effects for Vintage Story.",
+    "authors": [ "Graphight" ],
+    "version": "0.0.1",
+    "dependencies": {
+        "game": ">=1.22.0"
+    }
+}
