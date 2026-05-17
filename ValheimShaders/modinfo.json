@@ -7,6 +7,6 @@
     "authors": [ "Graphight" ],
     "version": "0.0.1",
     "dependencies": {
-        "game": ">=1.22.0"
+        "game": "1.22.0"
     }
 }
